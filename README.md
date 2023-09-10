@@ -1,26 +1,26 @@
 ## Result:
 
-| Framework  | Throughput |
-|------------|------------|
-| Blacksheep | 5,339      |
-| Muffin     | 5,320      |
-| Panther    | 5,112      |
-| Sanic      | 3,660      |
-| FastAPI    | 3,260      |
-| Tornado    | 2,081      |
-| Bottle     | 2,045      |
-| Django     | 821        |
-| Flask      | 749        |
+| Framework  | Throughput (Request/Second)                                                                                |
+|------------|------------------------------------------------------------------------------------------------------------|
+| Blacksheep | [5,339](https://raw.githubusercontent.com/PantherPy/frameworks-benchmark/master/blacksheep/blacksheep.png) |
+| Muffin     | [5,320](https://raw.githubusercontent.com/PantherPy/frameworks-benchmark/master/muffin/muffin.png)         |
+| Panther    | [5,112](https://raw.githubusercontent.com/PantherPy/frameworks-benchmark/master/panther/panther.png)       |
+| Sanic      | [3,660](https://raw.githubusercontent.com/PantherPy/frameworks-benchmark/master/sanic/sanic.png)           |
+| FastAPI    | [3,260](https://raw.githubusercontent.com/PantherPy/frameworks-benchmark/master/fastapi/fastapi.png)       |
+| Tornado    | [2,081](https://raw.githubusercontent.com/PantherPy/frameworks-benchmark/master/tornado/tornado.png)       |
+| Bottle     | [2,045](https://raw.githubusercontent.com/PantherPy/frameworks-benchmark/master/bottle/bottle.png)         |
+| Django     | [821](https://raw.githubusercontent.com/PantherPy/frameworks-benchmark/master/django/django.png)           |
+| Flask      | [749](https://raw.githubusercontent.com/PantherPy/frameworks-benchmark/master/flask/flask.png)             |
 
 ## Scenario:
 
--   Check Method
--   Check Authorization Header
--   Read Body
--   Read Query Params
--   Read Path Variables
--   Read Request Payload
--   Return All of Them as Json in Response
+- Check Method
+- Check Authorization Header
+- Read Body
+- Read Query Params
+- Read Path Variables
+- Read Request Payload
+- Return All of Them as Json in Response
 
 ## Environment:
 
