@@ -12,6 +12,15 @@
 | Django     | 821        |
 | Flask      | 749        |
 
+## Scenario:
+
+-   Check Method
+-   Check Authorization Header
+-   Read Body
+-   Read Query Params
+-   Read Path Variables
+-   Read Request Payload
+-   Return All of Them as Json in Response
 
 ## Environment:
 
