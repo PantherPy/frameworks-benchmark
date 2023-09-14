@@ -46,7 +46,7 @@ We used `nakabonne/ali` for benchmarking
 ali --rate 5500  "http://127.0.0.1:8000/users/2/records/10?name=ali&age=26" --method=PUT -H "Authorization: Token" -H "content-type: application/json" -b "{\"text\": \"hello\"}"
 ```
 
-## Keep That In Mind
+## FYI
 
 We tried to get the best performance from frameworks, If you think you can make them better, your contributions are
 welcome.
